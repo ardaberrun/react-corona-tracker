@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Corona Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Corona-tracker is an app that show current status of Coronavirus around the global and built with React,React-Leaflet,ContextApi, Material-UI and Victory for chart
 
 ## Available Scripts
 
