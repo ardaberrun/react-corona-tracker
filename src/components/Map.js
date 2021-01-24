@@ -33,10 +33,11 @@ function Map() {
     <MapContainer
       className={classes.map}
       center={position}
-      zoom={3}
+      zoom={4}
+      minZoom={2}
       doubleClickZoom={false}
-      zoomControl={false}
       scrollWheelZoom={false}
+      worldCopyJump={true}     
     >
       <TileLayer
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
